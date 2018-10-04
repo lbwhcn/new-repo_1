@@ -1,4 +1,4 @@
-## New repo
+## Create new repo and edit with pycharm and GuiHub
 
 Here is the description!
 
