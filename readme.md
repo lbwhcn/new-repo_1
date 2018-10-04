@@ -11,4 +11,6 @@ And some other stuff!
 5. Work on the file in pycharm
 6. Click command+k to commit 
 7. Add commit message
-8. 
+8. Then click command + shift + K to push
+
+
