@@ -17,4 +17,4 @@ Add a third line.
 Make some change in repo at GitHub, pull the change in pycharm
 
 9. pull it into pycharm (find the pull function by shift+command+a)
-10. set a shortcut for pull as 
+10. set a shortcut for pull as commend+shift+p
