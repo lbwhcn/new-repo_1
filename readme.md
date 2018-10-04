@@ -3,8 +3,10 @@
 Here is the description!
 
 And some other stuff!
+
 Add a third line.
 
+### Follow these steps: 
 1. Create a new repo at GitHub
 2. Copy the url
 3. Paste the url into pycharm by click checkout version control
