@@ -14,4 +14,7 @@ Add a third line.
 7. Add commit message
 8. Then click command + shift + K to push
 
+Make some change in repo at GitHub, pull the change in pycharm
 
+9. pull it into pycharm (find the pull function by shift+command+a)
+10. set a shortcut for pull as 
